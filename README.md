@@ -1,2 +1,2 @@
 # Feature-Extraction
-Feature_Extraction_Using_PCA_Visualization_t-SNE and UMAP
+Feature Extraction Using PCA and visualize with t-SNE and UMAP
