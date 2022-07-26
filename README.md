@@ -1,2 +1,2 @@
 # Feature-Extraction
-Feature Extraction Using PCA and visualize with t-SNE and UMAP
+Dimenionality Reduction Using PCA and Visualization with t-SNE and UMAP
